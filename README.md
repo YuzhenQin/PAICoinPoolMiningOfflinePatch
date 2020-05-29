@@ -1,0 +1,2 @@
+# PAICoinPoolMiningOfflinePatch
+PAICoinPoolMiningOfflinePatch
